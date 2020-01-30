@@ -1,0 +1,348 @@
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              136.802802,
+              47.865293
+            ],
+            [
+              136.804929,
+              47.865716
+            ],
+            [
+              136.806657,
+              47.863018
+            ],
+            [
+              136.806657,
+              47.857779
+            ],
+            [
+              136.801672,
+              47.860967
+            ],
+            [
+              136.804098,
+              47.863085
+            ],
+            [
+              136.802802,
+              47.865293
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": "cb0a4d2e684d3a574870c516aa059800b",
+        "id": "cb0a4d2e684d3a574870c516aa059800b",
+        "object": {
+          "type": "c1c7e061a1daa36aed979f59d9c976d7a",
+          "d281016a8c09f80d181b02422ab3fc9eb": {
+            "contractor": {
+              "value": ""
+            },
+            "forestry": {
+              "key": "b0994a4ecbcfaa3aec868d4046fb5f4fa",
+              "value": "Сукпайское"
+            },
+            "precinctForestry": {
+              "key": "cc8e6e796fa5fd6f93e04fa72a90faa9e",
+              "value": "Сукпайское"
+            },
+            "tract": {
+              "value": ""
+            },
+            "quarter": "575",
+            "number": "4",
+            "checkpointGeo": {},
+            "forestryKey": "2900300057500400230.10.201629.10.201720161",
+            "useType": {
+              "key": "stock",
+              "value": "Заготовка"
+            },
+            "checkpointDesc": "",
+            "checkpointLat": "",
+            "checkpointLon": "",
+            "declaration": {
+              "key": "f0fc41c520f210e19feae1693be0b17ca",
+              "value": "Декларация № 92"
+            },
+            "checkpointGrad": "",
+            "checkpointLine": "",
+            "desc": "",
+            "contract": {
+              "key": "b8587b0cff6ba6c6baf94efa9e53b63cb",
+              "value": "0009/2008"
+            }
+          },
+          "d4fedd9d65c5d907c0bf690367cad4ec1": {
+            "areaSize": "",
+            "areaSizeGeom": "",
+            "cuttingArea": "2",
+            "protectionCategory": {
+              "value": ""
+            },
+            "kindOfCutting": {
+              "key": "e274798bd79fc96e4c40570d0ec7f2c87",
+              "value": "Рубка спелых и перестойных лесных насаждений"
+            },
+            "formOfCutting": {
+              "value": ""
+            },
+            "farm": {
+              "value": ""
+            },
+            "specialPurpose": {
+              "value": "эксплуатационные"
+            }
+          },
+          "c63669baf0e1ac5322bf9351dc692385f": {
+            "numberObject": "",
+            "action": {
+              "key": "dd2e7d1af9138252d44522a37b20e49f6",
+              "value": "Создание объектов лесной, охотничьей, лесоперерабатывающей инфраструктуры"
+            },
+            "areaSize": "",
+            "areaSizeGeom": "",
+            "kindOfCutting": {
+              "key": "f02df550a7c7b0e7c46c0968fc1fd365e",
+              "value": "Рубка на лесных участках, предназначенных для строительства, реконструкции и эксплуатации объектов лесной, лесоперерабатывающей инфраструктуры"
+            },
+            "formOfCutting": {
+              "value": ""
+            },
+            "farm": {
+              "value": ""
+            },
+            "unit": {
+              "value": ""
+            },
+            "infrastructureObject": {
+              "key": "b7a270dc15b864c81cbfacce4971e0b0d",
+              "value": "Лесовозный ус"
+            }
+          },
+          "d8552e6d65c6c6513bc4b3373fec3607a": {
+            "kindOfCutting": {
+              "value": ""
+            },
+            "formOfCutting": {
+              "value": ""
+            },
+            "resourceKind": {
+              "value": ""
+            },
+            "areaSize": "",
+            "protectionCategory": {
+              "value": ""
+            },
+            "cuttingValue": "",
+            "specialPurpose": {
+              "value": ""
+            },
+            "usageKind": {
+              "value": ""
+            }
+          },
+          "b884ecd2192bf3bdba5a69b1d6cb4dd78": {
+            "numberObject": "",
+            "kindOfCutting": {
+              "value": ""
+            },
+            "formOfCutting": {
+              "value": ""
+            },
+            "action": {
+              "value": ""
+            },
+            "infrastructureObject": {
+              "value": ""
+            }
+          },
+          "c1": [
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "172",
+                "spicie": {
+                  "key": "a9306fa2e001163c1d4d79f2b4ac0128b",
+                  "value": "ЕЛЬ"
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "121",
+                "spicie": {
+                  "key": "cbfe0c84b5ebff1449e47ca3becfdb995",
+                  "value": "ПИХТА"
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "132",
+                "spicie": {
+                  "key": "ce49768fa67e0868a09ec4c23e02fa89c",
+                  "value": "БЕРЕЗА Желтая"
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "79",
+                "spicie": {
+                  "key": "e70e47b54d39cd796c2f01948e75a6e20",
+                  "value": "ЛИПА"
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "12",
+                "spicie": {
+                  "key": "aedd0836e14a5976199aca108409eeb1c",
+                  "value": "ДУБ"
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "32",
+                "spicie": {
+                  "key": "a0f96fa6b07add917b8a7a84db3ea7da7",
+                  "value": "ЯСЕНЬ"
+                }
+              }
+            }
+          ],
+          "c2": [
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "",
+                "spicie": {
+                  "value": ""
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "8",
+                "spicie": {
+                  "key": "ce49768fa67e0868a09ec4c23e02fa89c",
+                  "value": "БЕРЕЗА Желтая"
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "6",
+                "spicie": {
+                  "key": "e70e47b54d39cd796c2f01948e75a6e20",
+                  "value": "ЛИПА"
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "5",
+                "spicie": {
+                  "key": "a9306fa2e001163c1d4d79f2b4ac0128b",
+                  "value": "ЕЛЬ"
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "5",
+                "spicie": {
+                  "key": "cbfe0c84b5ebff1449e47ca3becfdb995",
+                  "value": "ПИХТА"
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "7",
+                "spicie": {
+                  "key": "e3088aa458dc3963dce6eec3eb2cd572c",
+                  "value": "Ильм"
+                }
+              }
+            },
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "6",
+                "spicie": {
+                  "key": "a0f96fa6b07add917b8a7a84db3ea7da7",
+                  "value": "ЯСЕНЬ"
+                }
+              }
+            }
+          ],
+          "c3": [
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "",
+                "spicie": {
+                  "value": ""
+                }
+              }
+            }
+          ],
+          "c4": [
+            {
+              "f67a0d33108145dd66a30989b1013575a": {
+                "amount": "",
+                "spicie": {
+                  "value": ""
+                }
+              }
+            }
+          ]
+        },
+        "system": {
+          "type": "-NameDescParLink",
+          "c4": [
+            {
+              "oLink": {
+                "link": ""
+              }
+            }
+          ],
+          "oProperty": {
+            "desc": "",
+            "name": "Лесосека № 2 - Сукпайское, Сукпайское, кв.575, выд.4"
+          }
+        },
+        "link": [
+          "f0fc41c520f210e19feae1693be0b17ca"
+        ],
+        "name": "Лесосека № 2 - Сукпайское, Сукпайское, кв.575, выд.4",
+        "parent": "b8138e40ee9d378f6f777b488385a29a3",
+        "parents": [
+          "b8138e40ee9d378f6f777b488385a29a3",
+          "c723eb9b5c8eae71d82d295535ab0c9a5",
+          "f77cdf9c450746c0234bc83aefbc3e9f3",
+          "b2aa7c20ad5e49f85db20aa5777a1215f",
+          "A4569328o18285o63795o42260o327677",
+          "A4546570o30979o63649o11699o607562",
+          "Obj",
+          "f0fc41c520f210e19feae1693be0b17ca",
+          "e9a4fdaada54c45b75fb4d4eb06c9429a",
+          "f48a8ed54dc72ceb98393a25f87160adc"
+        ],
+        "misc": {},
+        "stat": {},
+        "type": "c1c7e061a1daa36aed979f59d9c976d7a",
+        "updated": "2018-12-03T12:27:02.533Z",
+        "created": "2018-04-05T18:45:34.088Z",
+        "weightIndex": "8.99.9999",
+        "weightIndexXX": 8,
+        "weightIndexYY": 99,
+        "weightIndexZZZZ": 9999,
+        "staticWeightIndex": ""
+      }
+    }
