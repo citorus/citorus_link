@@ -4,7 +4,7 @@ CITORUS.Link
 Functionality
 -------------
 
-The main functions of **Citorus.Link** is:
+The main functions of **CITORUS.Link** is:
 
 - Import raster and vector data layers from CITORUS-based programs to QGIS.
 - Export previously imported and edited in QGIS raster and vector data layers back to CITORUS-based programs.
@@ -12,7 +12,7 @@ The main functions of **Citorus.Link** is:
 Testing
 -------
 
-You can test the functionality of Citorus.Link using **91.239.142.111:8888/citorusConnect** as connection URL and having register as a guest.
+You can test the functionality of CITORUS.Link using **91.239.142.111:8888/citorusConnect** as connection URL and having register as a guest.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_1.png"></p>
@@ -35,7 +35,7 @@ You can test the functionality of Citorus.Link using **91.239.142.111:8888/citor
 <p align="center">Picture 4 – Step 4. Server connection<p align="center">
 
 
-User documentation for Citorus.Link
+User documentation for CITORUS.Link
 -----------------------------------
 
 Read online: http://docs.citorus.ru/docs/link/.
