@@ -38,7 +38,7 @@ You can test the functionality of Citorus.Link using **91.239.142.111:8888/citor
 User documentation for Citorus.Link
 -----------------------------------
 
-Read online: http://docs.citorus.ru/docs/link/ru/latest/index.html.
+Read online: http://docs.citorus.ru/docs/link/.
 
 License
 -------
