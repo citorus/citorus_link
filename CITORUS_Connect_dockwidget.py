@@ -188,7 +188,7 @@ class CITORUSConnectDockWidget (QtGui.QDockWidget, FORM_CLASS):
 
         # Help message label -------------------------------------------------
         # url = "http://%s/docs_ngcom/source/ngqgis_connect.html" % self.tr("docs.nextgis.com")
-        url = "https://yandex.ru/"
+        url = "https://github.com/citorus/citorus_link/blob/master/README.md/"
         self.helpMessageLabel.setText(
             ' <span style="font-weight:bold;font-size:12px;color:blue;">?    </span><a href="%s">%s</a>' % (
                 url,
